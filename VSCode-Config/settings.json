@@ -1,0 +1,80 @@
+{
+    "python.defaultInterpreterPath": "C:\\WORK\\keybump\\venv",
+    "files.autoSave": "afterDelay",
+    "editor.renderWhitespace": "none",
+    "workbench.editor.empty.hint": "hidden",
+    "editor.fontSize": 20,
+    "explorer.confirmDelete": false,
+    "workbench.editorAssociations": {
+        "*.dot": "default"
+    },
+    "cSpell.userWords": [
+        "autowvdetails",
+        "Ikaros",
+        "nowrap"
+    ],
+    "security.allowedUNCHosts": [
+        "groupad1.com"
+    ],
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.agent.enabled": false,
+    "editor.rulers": [
+        80
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "git.confirmSync": false,
+    "workbench.colorTheme": "Handmade Dark",
+    "workbench.startupEditor": "none",
+    "editor.minimap.enabled": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.inlayHints.enabled": "off",
+    "editor.mouseWheelScrollSensitivity": 2,
+    "github-enterprise.uri": "https://intrum-ab.ghe.com/",
+    "github.copilot.advanced": {
+        "authProvider": "github-enterprise"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "sql": false
+    },
+    "editor.lineNumbers": "off",
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "editor.guides.indentation": false,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "off",
+    "editor.parameterHints.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.foldingHighlight": false,
+    "editor.occurrencesHighlight": "off",
+    "editor.selectionHighlight": false,
+    "editor.unicodeHighlight.includeStrings": false,
+    "editor.inlineSuggest.syntaxHighlightingEnabled": false,
+    "editor.bracketPairColorization.enabled": false,
+    "editor.matchBrackets": "never",
+    "extensions.ignoreRecommendations": true,
+    "cSpell.enabled": false,
+    "editor.aiStats.enabled": true,
+    "workbench.activityBar.location": "hidden",
+    "terminal.integrated.initialHint": false,
+    "debug.openDebug": "neverOpen",
+    "editor.fontFamily": "'Hurmit Nerd Font Mono', Consolas, 'Courier New', monospace",
+    "editor.stickyScroll.enabled": false,
+    "chat.viewSessions.orientation": "stacked",
+    "editor.smoothScrolling": true,
+    "dotnet.codeLens.enableReferencesCodeLens": false
+}
